@@ -16,6 +16,7 @@ Table of contents:
   :caption: Getting started
   :maxdepth: 1
   
+  getting-started/test-empty-page
   getting-started/what-is-saf
   getting-started/who-supports-saf
   getting-started/who-supports-saf2

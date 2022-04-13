@@ -53,7 +53,7 @@ See below overview tables which will give you an idea of who supports SAF and to
     <td>Yes</td>
   </tr>
   <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td><img src="../.gitbook/assets/1_scia.png"></td>
     <td>1.0.5 - 2.1.0</td>
     <td>Yes</td>
     <td>Yes</td>
@@ -72,7 +72,9 @@ See below overview tables which will give you an idea of who supports SAF and to
     <td>Yes</td>
   </tr>
   <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>
+    <img src="../.gitbook/assets/1_scia.pn">
+    </td>
     <td>1.0.5 - 2.1.0</td>
     <td>Yes</td>
     <td>Yes</td>
@@ -91,7 +93,9 @@ See below overview tables which will give you an idea of who supports SAF and to
     <td>Yes</td>
   </tr>
   <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>
+    <img src="../.gitbook/assets/1_scia.pn"><p>SCIA
+    </td>
     <td>1.0.5 - 2.1.0</td>
     <td>Yes</td>
     <td>Yes</td>
@@ -110,7 +114,9 @@ See below overview tables which will give you an idea of who supports SAF and to
     <td>Yes</td>
   </tr>
   <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>
+    <img src="../.gitbook/assets/1_scia.pn">
+    <p>SCIA</td>
     <td>1.0.5 - 2.1.0</td>
     <td>Yes</td>
     <td>Yes</td>

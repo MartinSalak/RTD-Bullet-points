@@ -5,6 +5,12 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 project = u'SAF Documentation'
 
+
+html_theme_options = {
+    'sticky_navigation': True,
+}
+    
+    
 html_css_files = [
     'custom.css',
 ]

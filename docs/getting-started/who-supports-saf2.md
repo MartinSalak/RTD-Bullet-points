@@ -1,4 +1,4 @@
-# Who supports SAF?
+# Who supports SAF 2?
 
 ```{admonition} Last update: February 2022
 

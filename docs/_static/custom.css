@@ -9,6 +9,8 @@
 .wy-table-responsive table {
     table-layout: auto;
     width: 100%;
+    overflow: visible;
+    
 }
 
 .wy-table-responsive table td {

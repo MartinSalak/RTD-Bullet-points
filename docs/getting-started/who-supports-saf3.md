@@ -1,4 +1,4 @@
-# Who supports SAF?
+# Who supports SAF 3?
 
 ```{admonition} Last update: February 2022
 
@@ -15,23 +15,272 @@ See below overview tables which will give you an idea of who supports SAF and to
 
 <table border=1>
   <tr>
-    <th class="vertical-header"><span>Firstname</span></th>
-    <th class="vertical-header"><span>Lastname</span></th>
-    <th class="vertical-header"><span>Age</span></th>
+    <th>SAF Implementation</th>
+    <th class="vertical-header"><span>Supported version</span></th>
+    <th class="vertical-header"><span>Import</span></th>
+    <th class="vertical-header"><span>Export</span></th>
+    <th class="vertical-header"><span>StructuralMaterial</span></th>
+    <th class="vertical-header"><span>StructuralCrossSection</span></th>
+    <th class="vertical-header"><span>CompositeShapeDef</span></th>
+    <th class="vertical-header"><span>StructuralPointConnection</span></th>
+    <th class="vertical-header"><span>StructuralCurveEdge</span></th>
+    <th class="vertical-header"><span>StructuralCurveMember</span></th>
+    <th class="vertical-header"><span>StructuralCurveMemberVarying</span></th>
+    <th class="vertical-header"><span>StructuralCurveMemberRib</span></th>
+    <th class="vertical-header"><span>StructuralSurfaceMember</span></th>
+    <th class="vertical-header"><span>StructuralSurfaceMemberOpening</span></th>
+    <th class="vertical-header"><span>StructuralSurfaceMemberRegion</span></th>
+    <th class="vertical-header"><span>StructuralStorey</span></th>
+    <th class="vertical-header"><span>StructuralProxyElement</span></th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
+    <td>1.0.5 - 2.1.0</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
   </tr>
 </table>
-
-
 
 
 

@@ -10,7 +10,26 @@ Information in the table is provided by involved partners themselves. Author of 
 
 See below overview tables which will give you an idea of who supports SAF and to which extend. If you have more questions about implementation or user-end usage of SAF import/export per specific application, please contact their customer support team.
 
-### SAF Implementation
+### TESTING TABLE
+| SAF implementation | Supported version | Import | Export | StructuralMaterial | StructuralCrossSection | CompositeShapeDef | StructuralPointConnection | StructuralCurveEdge | StructuralCurveMember | StructuralCurveMemberVarying | StructuralCurveMemberRib | StructuralSurfaceMember | StructuralSurfaceMemberOpening | StructuralSurfaceMemberRegion |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ![](../.gitbook/assets/1_scia.png)<p>SCIA | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_frilo.png)<p>FRILO | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_risa.png)<p>Risa | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR SAPHIR | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_axis.png)<p>AxisVM | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC StrukturEditor | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| ![](../.gitbook/assets/1_die.png)<p>D.I.E | 1.0.5 - 2.1.0 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+
+
+
+### 
 
 | **SAF implementation** | ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
 | ---------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: |

@@ -16,3 +16,13 @@
 .wy-table-responsive table td {
     white-space: normal;   
 }
+
+
+.vertical-header span {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: left;
+    max-height: 150px;
+  }
+  
+

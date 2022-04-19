@@ -311,7 +311,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>StructuralMaterial</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -327,7 +327,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-odd"><td><p>StructuralCrossSection</p></td>
+<tr class="row-odd"><td><p><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>

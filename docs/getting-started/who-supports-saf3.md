@@ -331,10 +331,42 @@ See below overview tables which will give you an idea of who supports SAF and to
 <th class="vertical-header"><span>StructuralSurfaceMemberRegion</span></th>
 <th class="vertical-header"><span>StructuralStorey</span></th>
 <th class="vertical-header"><span>StructuralProxyElement</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMemberRegion</span></th>
+<th class="vertical-header"><span>StructuralStorey</span></th>
+<th class="vertical-header"><span>StructuralProxyElement</span></th>
+<th class="vertical-header"><span>StructuralMaterial</span></th>
+<th class="vertical-header"><span>StructuralCrossSection</span></th>
+<th class="vertical-header"><span>CompositeShapeDef</span></th>
+<th class="vertical-header"><span>StructuralPointConnection</span></th>
+<th class="vertical-header"><span>StructuralCurveEdge</span></th>
+<th class="vertical-header"><span>StructuralCurveMember</span></th>
+<th class="vertical-header"><span>StructuralCurveMemberVarying</span></th>
+<th class="vertical-header"><span>StructuralCurveMemberRib</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMember</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMemberOpening</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMemberRegion</span></th>
+<th class="vertical-header"><span>StructuralStorey</span></th>
+<th class="vertical-header"><span>StructuralProxyElement</span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="row-even"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -373,6 +405,22 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>¨
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>

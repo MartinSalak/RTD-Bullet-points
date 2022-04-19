@@ -248,7 +248,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 
 
 
-<table class="colwidths-auto docutils align-default">
+<table class="colwidths-auto docutils align-default width-auto">
 <thead>
 <tr class="row-odd"><th class="head"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
 <th class="vertical-header"><span><img alt="" src="../_images/1_scia.png" />   SCIA</span></th>

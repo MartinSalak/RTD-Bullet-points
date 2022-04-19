@@ -295,7 +295,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 <thead>
 <tr class="row-odd"><th class="head"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
 <th class="vertical-header"><p>text text text</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
+<th class="vertical-header"><span>text text text</span></th>
 <th class="text-center head"><p><img alt="" src="../_images/1_grgnay6o_400x400.png" /><p>Graphisoft</p></th>
 <th class="text-center head"><p><img alt="" src="../_images/1_risa.png" /><p>Risa</p></th>
 <th class="text-center head"><p><img alt="" src="../_images/1_radimpex.png" /><p>Radimpex</p></th>

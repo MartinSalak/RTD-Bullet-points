@@ -289,12 +289,12 @@ See below overview tables which will give you an idea of who supports SAF and to
 </table>
 
 
-
+<th class="vertical-header"><span>Supported version</span></th>
 
 <table class="colwidths-auto docutils align-default">
 <thead>
 <tr class="row-odd"><th class="head"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="vertical-header"><p>text text text</p></th>
 <th class="text-center head"><p><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 <th class="text-center head"><p><img alt="" src="../_images/1_grgnay6o_400x400.png" /><p>Graphisoft</p></th>
 <th class="text-center head"><p><img alt="" src="../_images/1_risa.png" /><p>Risa</p></th>

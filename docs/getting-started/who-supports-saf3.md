@@ -13,301 +13,23 @@ See below overview tables which will give you an idea of who supports SAF and to
 ### SAF Implementation
 
 
-<table border=1>
-  <tr>
-    <th>SAF Implementation</th>
-    <th class="vertical-header"><span>Supported version</span></th>
-    <th class="vertical-header"><span>Import</span></th>
-    <th class="vertical-header"><span>Export</span></th>
-    <th class="vertical-header"><span>StructuralMaterial</span></th>
-    <th class="vertical-header"><span>StructuralCrossSection</span></th>
-    <th class="vertical-header"><span>CompositeShapeDef</span></th>
-    <th class="vertical-header"><span>StructuralPointConnection</span></th>
-    <th class="vertical-header"><span>StructuralCurveEdge</span></th>
-    <th class="vertical-header"><span>StructuralCurveMember</span></th>
-    <th class="vertical-header"><span>StructuralCurveMemberVarying</span></th>
-    <th class="vertical-header"><span>StructuralCurveMemberRib</span></th>
-    <th class="vertical-header"><span>StructuralSurfaceMember</span></th>
-    <th class="vertical-header"><span>StructuralSurfaceMemberOpening</span></th>
-    <th class="vertical-header"><span>StructuralSurfaceMemberRegion</span></th>
-    <th class="vertical-header"><span>StructuralStorey</span></th>
-    <th class="vertical-header"><span>StructuralProxyElement</span></th>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"></td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td>
-    <img src="../.gitbook/assets/1_scia.pn">
-    </td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td>
-    <img src="../.gitbook/assets/1_scia.pn"><p>SCIA
-    </td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td>
-    <img src="../.gitbook/assets/1_scia.pn">
-    <p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-  <tr>
-    <td><img src="../.gitbook/assets/1_scia.png"><p>SCIA</td>
-    <td>1.0.5 - 2.1.0</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-</table>
-
-
-<th class="vertical-header"><span>Supported version</span></th>
 
 <table class="colwidths-auto docutils align-default">
 <thead>
 <tr class="row-odd"><th class="head"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
-<th class="vertical-header"><p>text text text</p></th>
-<th class="vertical-header"><span>text text text</span></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_grgnay6o_400x400.png" /><p>Graphisoft</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_risa.png" /><p>Risa</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_radimpex.png" /><p>Radimpex</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_logo_lira.png" /><p>LIRA SAPR<p>SAPHIR</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_axis.png" /><p>AxisVM</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_fem-design-logo2.png" /><p>FEM-Design</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_sofistik.png" /><p>Sofistik</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_dlubal.png" /><p>Dlubal</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_consteel.png" /><p>ConSteel</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_mbaec.png" /><p>mbAEC<p>StrukturEditor</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_die.png" /><p>D.I.E</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_InfoGraph_99x99.png" /><p>InfoGraph</p></th>
+<th class="vertical-header"><span>StructuralMaterial</span></th>
+<th class="vertical-header"><span>StructuralCrossSection</span></th>
+<th class="vertical-header"><span>CompositeShapeDef</span></th>
+<th class="vertical-header"><span>StructuralPointConnection</span></th>
+<th class="vertical-header"><span>StructuralCurveEdge</span></th>
+<th class="vertical-header"><span>StructuralCurveMember</span></th>
+<th class="vertical-header"><span>StructuralCurveMemberVarying</span></th>
+<th class="vertical-header"><span>StructuralCurveMemberRib</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMember</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMemberOpening</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMemberRegion</span></th>
+<th class="vertical-header"><span>StructuralStorey</span></th>
+<th class="vertical-header"><span>StructuralProxyElement</span></th>
 </tr>
 </thead>
 <tbody>
@@ -325,10 +47,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
-<td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-odd"><td><p><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
-<td class="text-center"><p>Yes</p></td>
+<tr class="row-odd"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -343,7 +63,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-even"><td><p>CompositeShapeDef</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_grgnay6o_400x400.png" /><p>Graphisoft</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -357,10 +77,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
-<td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-odd"><td><p>StructuralPointConnection</p></td>
-<td class="text-center"><p>Yes</p></td>
+<tr class="row-odd"><td><img alt="" src="../_images/1_risa.png" /><p>Risa</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -375,7 +93,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-even"><td><p>StructuralCurveEdge</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_radimpex.png" /><p>Radimpex</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -389,10 +107,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
-<td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-odd"><td><p>StructuralCurveMember</p></td>
-<td class="text-center"><p>Yes</p></td>
+<tr class="row-odd"><td><img alt="" src="../_images/1_logo_lira.png" /><p>LIRA SAPR<p>SAPHIR</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -407,7 +123,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-even"><td><p>StructuralCurveMemberVarying</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_axis.png" /><p>AxisVM</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
@@ -419,11 +135,10 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
-<td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 </tr>
-<tr class="row-odd"><td><p>StructuralCurveMemberRib</p></td>
+<tr class="row-odd"><td><img alt="" src="../_images/1_fem-design-logo2.png" /><p>FEM-Design</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -437,10 +152,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>Yes</p></td>
-<td class="text-center"><p>No</p></td>
 </tr>
-<tr class="row-even"><td><p>StructuralSurfaceMember</p></td>
-<td class="text-center"><p>Yes</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_sofistik.png" /><p>Sofistik</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -455,7 +168,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-odd"><td><p>StructuralSurfaceMemberOpening</p></td>
+<tr class="row-odd"><td><img alt="" src="../_images/1_dlubal.png" /><p>Dlubal</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -467,11 +180,10 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
-<td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-even"><td><p>StructuralSurfaceMemberRegion</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_consteel.png" /><p>ConSteel</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -483,32 +195,44 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-odd"><td><img alt="" src="../_images/1_mbaec.png" /><p>mbAEC<p>StrukturEditor</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
 </tr>
-<tr class="row-odd"><td><p>StructuralStorey</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_die.png" /><p>D.I.E</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
-<td class="text-center"><p>Yes</p></td>
-<td class="text-center"><p>Yes</p></td>
-<td class="text-center"><p>Yes</p></td>
-<td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
-<td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
-<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 </tr>
-<tr class="row-even"><td><p>StructuralProxyElement</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_InfoGraph_99x99.png" /><p>InfoGraph</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>Yes</p></td>
-<td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>
 <td class="text-center"><p>No</p></td>

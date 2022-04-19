@@ -250,25 +250,24 @@ See below overview tables which will give you an idea of who supports SAF and to
 
 <table class="colwidths-auto docutils align-default">
 <thead>
-<tr class="row-odd"><th class="head"><p><strong>SAF implementation</strong></p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_grgnay6o_400x400.png" /><p>Graphisoft</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_risa.png" /><p>Risa</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_radimpex.png" /><p>Radimpex</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_logo_lira.png" /><p>LIRA SAPR<p>SAPHIR</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_axis.png" /><p>AxisVM</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_fem-design-logo2.png" /><p>FEM-Design</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_sofistik.png" /><p>Sofistik</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_dlubal.png" /><p>Dlubal</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_consteel.png" /><p>ConSteel</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_mbaec.png" /><p>mbAEC<p>StrukturEditor</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_die.png" /><p>D.I.E</p></th>
-<th class="text-center head"><p><img alt="" src="../_images/1_InfoGraph_99x99.png" /><p>InfoGraph</p></th>
+<tr class="row-odd"><th class="head"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
+<th class="vertical-header"><span><img alt="" src="../_images/1_scia.png" />SCIA</span></th>
+<th class="vertical-header"><span>StructuralCrossSection</span></th>
+<th class="vertical-header"><span>CompositeShapeDef</span></th>
+<th class="vertical-header"><span>StructuralPointConnection</span></th>
+<th class="vertical-header"><span>StructuralCurveEdge</span></th>
+<th class="vertical-header"><span>StructuralCurveMember</span></th>
+<th class="vertical-header"><span>StructuralCurveMemberVarying</span></th>
+<th class="vertical-header"><span>StructuralCurveMemberRib</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMember</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMemberOpening</span></th>
+<th class="vertical-header"><span>StructuralSurfaceMemberRegion</span></th>
+<th class="vertical-header"><span>StructuralStorey</span></th>
+<th class="vertical-header"><span>StructuralProxyElement</span></th>
 </tr>
 </thead>
 <tbody>
-<tr class="row-odd"><td><p>Import</p></td>
+<tr class="row-even"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -282,113 +281,204 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-odd"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 <td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-even"><td><img alt="" src="../_images/1_grgnay6o_400x400.png" /><p>Graphisoft</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+</tr>
+<tr class="row-odd"><td><img alt="" src="../_images/1_risa.png" /><p>Risa</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-even"><td><img alt="" src="../_images/1_radimpex.png" /><p>Radimpex</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+</tr>
+<tr class="row-odd"><td><img alt="" src="../_images/1_logo_lira.png" /><p>LIRA SAPR<p>SAPHIR</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-even"><td><img alt="" src="../_images/1_axis.png" /><p>AxisVM</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+</tr>
+<tr class="row-odd"><td><img alt="" src="../_images/1_fem-design-logo2.png" /><p>FEM-Design</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-even"><td><img alt="" src="../_images/1_sofistik.png" /><p>Sofistik</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-odd"><td><img alt="" src="../_images/1_dlubal.png" /><p>Dlubal</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-even"><td><img alt="" src="../_images/1_consteel.png" /><p>ConSteel</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+</tr>
+<tr class="row-odd"><td><img alt="" src="../_images/1_mbaec.png" /><p>mbAEC<p>StrukturEditor</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+</tr>
+<tr class="row-even"><td><img alt="" src="../_images/1_die.png" /><p>D.I.E</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+</tr>
+<tr class="row-even"><td><img alt="" src="../_images/1_InfoGraph_99x99.png" /><p>InfoGraph</p></th>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>Yes</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
+<td class="text-center"><p>No</p></td>
 </tr>
 </tbody>
 </table>
 
 
 
-
-
-
-
-
-| **SAF implementation** | ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
-| ---------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: |
-| Supported version      |                            1.0.5 - 2.1.0                            |                                 1.0.5                                 |                                      1.0.5 - 2.0.0                                      |                                 2.0.0                                 |                                     1.0.5 - 2.0.0                                     |                                          2.0.0                                         |                                  1.0.5                                  |                                          1.0.5 - 2.0.0                                         |                                         2.0.0                                        | 1.0.5 | 1.0.5 - 2.0.0 | 1.0.5 - 2.0.0 | 1.0.5 - 2.0.0 |
-| Import                 |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes| Yes | Yes | Yes | 
-| Export                 |                                 Yes                                 |                                  No                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           No                                           |                                          No                                          | Yes | No | Yes | Yes |
-
-| <p><strong>Structural analysis</strong><br><strong>elements</strong></p> | ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
-| ------------------------------------------------------------------------ | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: |
-| StructuralMaterial                                                       |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | Yes | Yes | Yes |
-| StructuralCrossSection                                                   |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | Yes | Yes | Yes |
-| CompositeShapeDef                                                        |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | No | No | No | No |
-| StructuralPointConnection                                                |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | Yes | Yes | Yes |
-| StructuralCurveEdge                                                      |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | No  | No | No |
-| StructuralCurveMember                                                    |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | Yes | Yes | Yes |
-| StructuralCurveMemberVarying                                             |                                 Yes                                 |                                   No                                  |                                            No                                           |                                   No                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | Yes | No | No |
-| StructuralCurveMemberRib                                                 |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | No | No | Yes |
-| StructuralSurfaceMember                                                  |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | Yes | Yes | Yes |
-| StructuralSurfaceMemberOpening                                           |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | No | Yes | Yes |
-| StructuralSurfaceMemberRegion                                            |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           No                                           |                                          Yes                                         | No | No | No | Yes |
-| StructuralStorey                                                         |                                 Yes                                 |                                   No                                  |                                            No                                           |                                   No                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | No | Yes | No |
-| StructuralProxyElement                                                   |                                 Yes                                 |                                   No                                  |                                            No                                           |                                  Yes                                  |                                       No                                      |                                           No                                           |                                    No                                   |                                           No                                           |                                          No                                          | No | No | No | No |
-
-### Supports and hinges
-
-| Supports and hinges         | ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
-| --------------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :----: | :----: | :---: | :---: |
-| StructuralPointSupport      |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | Yes | No | Yes |
-| StructuralSurfaceConnection |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | No | No | Yes |
-| StructuralCurveConnection   |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | No | No | Yes |
-| StructuralEdgeConnection    |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | No | No | Yes |
-| RelConnectsStructuralMember |                                 Yes                                 |                                   No                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          Yes                                         | Yes | Yes | No | No |
-| RelConnectsSurfaceEdge      |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          No                                          | Yes | No | No | No |
-| RelConnectsRigidCross       |                                  Yes                                 |                                   No                                  |                                           Yes                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | No | No | No |
-| RelConnectsRigidLink        |                                 Yes                                 |                                   No                                  |                                           Yes                                           |                                   No                                  |                                       No                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          No                                          | Yes | No | No | No |
-| RelConnectsRigidMember      |                                  Yes                                 |                                   No                                  |                                           Yes                                           |                                   No                                  |                                       No                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          No                                          | Yes | No | No | No |
-
-### Loads
-
-| **Loads**                           |  ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
-| ----------------------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: |
-| StructuralLoadGroup                 |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           No                                           |                                          No                                          | Yes | Yes | No | No |
-| StructuralLoadCase                  |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | Yes | No | Yes |
-| StructuralLoadCombination           |                                 Yes                                 |                                   No                                  |                                           Yes                                           |                                  Yes                                  |                                       No                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | Yes | No | No |
-| StructuralPointAction               |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | Yes | No | Yes |
-| StructuralPointMoment               |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | Yes | No | Yes |
-| StructuralCurveAction               |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | Yes | No | Yes |
-| StructuralCurveMoment               |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | No | No | Yes |
-| StructuralSurfaceAction             |                                 Yes                                 |                                  Yes                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | Yes | Yes | No | Yes |
-| StructuralSurfaceActionThermal      |                                  Yes                                 |                                   No                                  |                                            No                                           |                                  Yes                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                           |                                          No                                          | No | No | No | No |
-| StructuralCurveActionThermal        |                                  Yes                                 |                                   No                                  |                                            No                                           |                                   No                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                           |                                          No                                          | No | No | No | No |
-| StructuralPointActionFree           |                                 Yes                                 |                                  Yes                                  |                                            No                                           |                                   No                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | No | Yes | No | No |
-| StructuralCurveActionFree           |                                 Yes                                 |                                  Yes                                  |                                            No                                           |                                   No                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | No | Yes | No | No |
-| StructuralSurfaceActionFree         |                                 Yes                                 |                                  Yes                                  |                                            No                                           |                                   No                                  |                                      Yes                                      |                                           Yes                                          |                                   Yes                                   |                                           Yes                                           |                                          No                                          | No | No | No | No |
-| StructuralSurfaceActionDistribution |                                  Yes                                 |                                   No                                  |                                            No                                           |                                   No                                  |                                       No                                      |                                           No                                           |                                    No                                   |                                           No                                           |                                          No                                          | No | Yes | No | No |
-
-### Results
-
-| **Results**                           |  ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
-| ----------------------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: |
-| ResultInternalForce1D               | No | No | No | No | No | No | No | No | No | No | No | No | No |
-
-
-
-### Implementation in progress
-
-| **SAF implementation**  | ![](../.gitbook/assets/1_idea.png)<p>IDEA | ![](../.gitbook/assets/1_InfoGraph_99x99.png)<p>InfoGraph |
-| ---------------------- | :----------------------------------------: | :-------------------------------------------------------: |
-|                        |                                   Yes                                   |                                 Yes                                 |                                  Yes                                 |                        Yes                       |
-
-## Support via SAF converter
-
-Tables below shows coverage of [SAF converter](https://safconverter.structuraltoolkit.com/rfem). Independent hub where dedicated tools and apps for specific conversion of CAE model to SAF are available.
-
-### SAF Implementation
-
-| **SAF implementation** | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_robot.png)<p>Robot |
-| ---------------------- | :-------------------------------------------: | :-------------------------------------------------------------------: |
-| Supported version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |                      1.0.5                    |                                 1.0.5                                 |
-| Import                 |                       Yes                     |                                  Yes                                  |
-| Export                 |                       No                      |                                   No                                  |
-
-### Structural analysis elements
-
-| <p><strong>Structural analysis</strong><br><strong>elements</strong></p> | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_robot.png)<p>Robot |
-| ------------------------------------------------------------------------ | :---------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| StructuralMaterial                                                       |                                   Yes                                   |                                  Yes                                  |
-| StructuralCrossSection                                                   |                                   Yes                                   |                                  Yes                                  |
-| CompositeShapeDef                                                        |                                    No                                   |                                   No                                  |
-| StructuralPointConnection                                                |                                   Yes                                   |                                  Yes                                  |
-| StructuralCurveEdge                                                      |                                   Yes                                   |                                  Yes                                  |
-| StructuralCurveMember                                                    |                                   Yes                                   |                                  Yes                                  |
-| StructuralCurveMemberVarying                                             |                                    No                                   |                                   No                                  |
-| StructuralCurveMemberRib                                                 |                                   Yes                                   |                                  Yes                                  |
-| StructuralSurfaceMember                                                  |                                   Yes                                   |                                  Yes                                  |
-| StructuralSurfaceMemberOpening                                           |                                   Yes                                   |                                  Yes                                  |
-| StructuralSurfaceMemberRegion                                            |                                   Yes                                   |                                   No                                  |
-| StructuralStorey                                                         |                                    No                                   |                                   No                                  |
-| StructuralProxyElement                                                   |                                    No                                   |                                   No                                  |

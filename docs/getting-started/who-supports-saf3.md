@@ -18,7 +18,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 <thead>
 <tr class="row-odd"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>LONG LONG TEXT</p></th>
 <th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><p><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>

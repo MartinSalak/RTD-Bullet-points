@@ -31,7 +31,5 @@
 
 .scorllable-table2 {
     overflow: auto!important;
-    max-width: none!important;
-    overflow: auto!important;
     table-layout: fixed!important;
 }

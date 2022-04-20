@@ -470,4 +470,4 @@ See below overview tables which will give you an idea of who supports SAF and to
 </tr>
 </tbody>
 </table>
-<div class="scorllable-table">
+</div>

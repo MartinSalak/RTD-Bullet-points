@@ -30,6 +30,7 @@
 }
 
 .scorllable-table2 {
-    overflow: auto!important;
     table-layout: fixed!important;
+    width: auto !important;
+    overflow: auto!important;
 }

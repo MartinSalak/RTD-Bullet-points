@@ -12,6 +12,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 
 ### Companies
 
+
+<div class="scorllable-table">
 <table class="colwidths-auto docutils align-default">
 <thead>
 <tr class="row-odd"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
@@ -31,7 +33,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 </tr>
 </tbody>
 </table>
-
+</div>
 
 
 

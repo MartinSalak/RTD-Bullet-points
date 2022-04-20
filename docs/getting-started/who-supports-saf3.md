@@ -331,7 +331,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 </table>
 
 
-
+<div class="scorllable-table">
 <table class="colwidths-auto docutils align-default">
 <thead>
 <tr class="row-odd"><th class="head"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
@@ -470,3 +470,4 @@ See below overview tables which will give you an idea of who supports SAF and to
 </tr>
 </tbody>
 </table>
+<div class="scorllable-table">

@@ -25,3 +25,6 @@
   }
   
 
+.scorllable-table {
+    overflow: auto!important;
+}

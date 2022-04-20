@@ -14,22 +14,18 @@ See below overview tables which will give you an idea of who supports SAF and to
 
 <table class="colwidths-auto docutils align-default">
 <thead>
+<tr class="row-odd"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <tr class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-</tr>
 <tr class="text-center"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 </tr>

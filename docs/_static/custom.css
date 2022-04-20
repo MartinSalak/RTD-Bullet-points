@@ -7,7 +7,7 @@
 }
 
 .wy-table-responsive table {
-    table-layout: auto;
+    table-layout: fixed;
     width: 100%;
     overflow: visible;
     

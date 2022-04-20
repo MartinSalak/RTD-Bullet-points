@@ -20,13 +20,13 @@ See below overview tables which will give you an idea of who supports SAF and to
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<tr class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
-<tr class="text-center"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
+<th class="text-center"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<th class="text-center"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 <th class="text-center"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 </tr>
 </tbody>

@@ -35,9 +35,6 @@ See below overview tables which will give you an idea of who supports SAF and to
 
 
 
-
-
-
 ### SAF Implementation
 
 <table class="colwidths-auto docutils align-default">

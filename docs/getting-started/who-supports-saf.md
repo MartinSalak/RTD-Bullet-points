@@ -38,8 +38,9 @@ See below overview tables which will give you an idea of who supports SAF and to
 | StructuralProxyElement                                                   |                                 Yes                                 |                                   No                                  |                                            No                                           |                                  Yes                                  |                                       No                                      |                                           No                                           |                                    No                                   |                                           No                                           |                                          No                                          | No | No | No | No |
 
 </div>
+<br>
 
-
+<div class="scorllable-table">
 
 ### Supports and hinges
 
@@ -55,7 +56,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 | RelConnectsRigidLink        |                                 Yes                                 |                                   No                                  |                                           Yes                                           |                                   No                                  |                                       No                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          No                                          | Yes | No | No | No |
 | RelConnectsRigidMember      |                                  Yes                                 |                                   No                                  |                                           Yes                                           |                                   No                                  |                                       No                                      |                                           No                                           |                                   Yes                                   |                                           Yes                                          |                                          No                                          | Yes | No | No | No |
 
-
+</div>
+<br>
 
 ### Loads
 

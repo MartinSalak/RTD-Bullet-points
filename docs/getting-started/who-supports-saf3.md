@@ -13,10 +13,11 @@ See below overview tables which will give you an idea of who supports SAF and to
 ### Companies
 
 
-<div class="scorllable-table">
+<div class="scorllable-table2">
 <table class="colwidths-auto docutils align-default">
 <thead>
-<tr class="row-odd"><p><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<tr class="row-odd">
+<th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>LONG LONG TEXT</p></th>
 <th class="text-center"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>

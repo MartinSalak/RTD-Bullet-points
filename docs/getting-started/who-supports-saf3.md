@@ -330,7 +330,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 <div class="scorllable-table">
 <table class="colwidths-auto docutils align-default">
 <thead>
-<tr class="row-odd"><th class="head"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
+<tr class="row-odd">
+<th class="sticky-column"><p><p><strong>Structural analysis</strong><br><strong>elements</strong></p></p></th>
 <th class="vertical-header"><span>StructuralMaterial</span></th>
 <th class="vertical-header"><span>StructuralCrossSection</span></th>
 <th class="vertical-header"><span>CompositeShapeDef</span></th>
@@ -376,7 +377,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
+<tr class="row-even">
+<td class="sticky-column"><img alt="" src="../_images/1_scia.png" /><p>SCIA</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
@@ -420,7 +422,8 @@ See below overview tables which will give you an idea of who supports SAF and to
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 </tr>
-<tr class="row-odd"><td><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
+<tr class="row-odd">
+<td class="sticky-column"><img alt="" src="../_images/1_frilo.png" /><p>FRILO</p></th>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>
 <td class="text-center"><p>Yes</p></td>

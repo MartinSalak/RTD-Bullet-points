@@ -8,7 +8,7 @@
 
 .wy-table-responsive table {
     table-layout: fixed!important;
-    
+
     width: 100%;
     overflow: visible;
     
@@ -34,4 +34,9 @@
     table-layout: fixed!important;
     width: auto !important;
     overflow: auto!important;
+}
+
+.sticky-column {
+    position: -webkit-sticky;
+    position: sticky;
 }

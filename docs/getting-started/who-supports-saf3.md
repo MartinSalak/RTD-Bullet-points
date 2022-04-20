@@ -34,7 +34,7 @@ See below overview tables which will give you an idea of who supports SAF and to
 </tbody>
 </table>
 </div>
-
+<br>
 
 
 ### SAF Implementation

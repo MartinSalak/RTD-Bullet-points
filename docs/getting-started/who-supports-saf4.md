@@ -1,4 +1,4 @@
-# Who supports SAF?
+# Who supports SAF 4?
 
 ```{admonition} Last update: February 2022
 
@@ -11,6 +11,9 @@ Information in the table is provided by involved partners themselves. Author of 
 See below overview tables which will give you an idea of who supports SAF and to which extend. If you have more questions about implementation or user-end usage of SAF import/export per specific application, please contact their customer support team.
 
 ### SAF Implementation
+
+<div class="scorllable-table">
+
 
 | **SAF implementation** | ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
 | ---------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: |
@@ -116,3 +119,6 @@ Tables below shows coverage of [SAF converter](https://safconverter.structuralto
 | StructuralSurfaceMemberRegion                                            |                                   Yes                                   |                                   No                                  |
 | StructuralStorey                                                         |                                    No                                   |                                   No                                  |
 | StructuralProxyElement                                                   |                                    No                                   |                                   No                                  |
+
+</div>
+<br>

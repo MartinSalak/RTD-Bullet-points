@@ -1,13 +1,12 @@
-/*
 .wy-nav-content {
-    max-width: 100%!important;
+    max-width: 100%!important; /* sets the content of the page to the whole width of window */
 }
-*/
 
+/*
 .wy-table-responsive {
     overflow: visible!important;
 }
-
+*/
 .wy-table-responsive table {
     table-layout: auto;
     width: 100%;

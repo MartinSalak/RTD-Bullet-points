@@ -20,6 +20,7 @@ Table of contents:
   getting-started/who-supports-saf
   getting-started/who-supports-saf2
   getting-started/who-supports-saf3
+  getting-started/who-supports-saf4
   getting-started/saf-versions
   getting-started/saf-examples
   getting-started/release-notes

@@ -13,11 +13,9 @@
     width: 100%;  /* sets the width of the tables; 100% is the width of the content */
 }
 
-/*
 .wy-table-responsive table td {
-    white-space: normal;   
+    white-space: normal;   /* automatically wraps text into more rows inside the cells of tables */
 }
-*/
 
 .vertical-header span {
     writing-mode: vertical-rl;

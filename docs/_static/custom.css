@@ -1,18 +1,14 @@
- /* 
 .wy-nav-content {
-    max-width: 100%!important;  the table should not be wider, then the page width?  
+    max-width: 100%!important;
 }
-*/
+
 .wy-table-responsive {
     overflow: visible!important;
 }
-/*  */
-.wy-table-responsive table {
-    table-layout: fixed!important; /* fixed would set all the columns to the same width, auto does it automatically */
 
-    width: 100%; /* sets t */
-    overflow: visible;
-    
+.wy-table-responsive table {
+    table-layout: auto;
+    width: 100%;
 }
 
 .wy-table-responsive table td {

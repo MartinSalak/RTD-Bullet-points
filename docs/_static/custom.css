@@ -7,12 +7,12 @@
 .wy-table-responsive {
     overflow: visible!important;  /* visible disables scroll bar */
 }
-/*
+
 .wy-table-responsive table {
-    table-layout: auto;  /* width of the columns are created automatically 
-    width: 100%;  /* sets the width of the tables; 100% is the width of the content
+    table-layout: auto;  /* width of the columns are created automatically, this is default choice as well */
+    width: 100%;  /* sets the width of the tables; 100% is the width of the content, this is default */
 }
-*/
+
 .wy-table-responsive table td {
     white-space: normal;   /* automatically wraps text into more rows inside the cells of tables */
 }

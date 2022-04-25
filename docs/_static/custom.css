@@ -1,15 +1,16 @@
+/* add !important so it overwrites the sphinx default values */
+
 .wy-nav-content {
     max-width: 100%!important; /* sets the content of the page to the whole width of window */
 }
 
-/*
 .wy-table-responsive {
-    overflow: visible!important;
+    overflow: visible!important; /* visible disables scroll bar */
 }
-*/
+
 .wy-table-responsive table {
-    table-layout: auto;
-    width: 100%;
+    table-layout: fixed;
+    width: 75%;
 }
 
 .wy-table-responsive table td {

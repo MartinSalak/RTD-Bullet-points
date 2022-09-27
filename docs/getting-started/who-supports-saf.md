@@ -19,6 +19,11 @@ See below overview tables which will give you an idea of who supports SAF and to
 | Export                 |                                 Yes                                 |                                  No                                  |                                           Yes                                           |                                  Yes                                  |                                      Yes                                      |                                           No                                           |                                   Yes                                   |                                           No                                           |                                          No                                          | Yes | No | Yes | Yes |
 
 
+asdfadfig 
+asdg 
+
+
+
 <div class="scorllable-table">
 
 | <p><strong>Structural analysis</strong><br><strong>elements</strong></p> | ![](../.gitbook/assets/1_scia.png)<p>SCIA | ![](../.gitbook/assets/1_frilo.png)<p>FRILO | ![](../.gitbook/assets/1_grgnay6o_400x400.png)<p>Graphisoft | ![](../.gitbook/assets/1_risa.png)<p>Risa | ![](../.gitbook/assets/1_radimpex.png)<p>Radimpex | ![](../.gitbook/assets/1_logo_lira.png)<p>LIRA SAPR<p>SAPHIR | ![](../.gitbook/assets/1_axis.png)<p>AxisVM | ![](../.gitbook/assets/1_fem-design-logo2.png)<p>FEM-Design | ![](../.gitbook/assets/1_sofistik.png)<p>Sofistik | ![](../.gitbook/assets/1_dlubal.png)<p>Dlubal | ![](../.gitbook/assets/1_consteel.png)<p>ConSteel | ![](../.gitbook/assets/1_mbaec.png)<p>mbAEC<p>StrukturEditor | ![](../.gitbook/assets/1_die.png)<p>D.I.E |
